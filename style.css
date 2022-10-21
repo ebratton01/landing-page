@@ -1,0 +1,184 @@
+body {
+    height: 100vh;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #1F2937;
+    height: 40vh;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin-bottom: 32px;
+}
+
+.head-top {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3vh;
+    padding-right: 15vh;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.right-links {
+    display: flex;
+    font-size: 18px;
+    gap: 16px;
+}
+
+.header-box {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8vh;
+    padding-right: 8vh;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    margin-bottom: 28px;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 16px;
+}
+
+button {
+    background-color: #3882f6;
+    font-size: 14px;
+    color: #e5e7eb;
+    padding: 6px 20px;
+    border-radius: 10px;
+}
+
+#button1 {
+    border: 1px solid #1F2937;
+}
+
+#button2 {
+    border: 1px solid white;
+}
+
+.text-box{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 500px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 32px;
+}
+
+.picbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.top-text {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    margin-bottom: 32px;
+}
+
+.bottom-text {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    height: 25vh;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    padding: 128px;
+    margin-bottom: 64px;
+}
+
+.signup {
+    height: 72px;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
+    align-items: center;
+    padding: 24px 100px;
+    margin-bottom: 64px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1 0 auto;
+    padding: 24px;
+    color: #f9faf8;
+}
+
+.up {
+    font-size: 24px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.down {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#logopic {
+    width: 30px;
+    height: 30px;
+}
+
+.one {
+    width: 150px;
+    height: 150px;
+}
+
+.two {
+    width: 150px;
+    height: 150px;
+}
+
+.three {
+    width: 150px;
+    height: 150px;
+}
+
+.four {
+    width: 150px;
+    height: 150px;
+}
