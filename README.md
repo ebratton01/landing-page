@@ -12,11 +12,11 @@ may not appear correctly on some browsers like Safari.
 It contains five flexbox containers that also may also contain flexbox containers as items themselves.
 The main five containers are of class (in order):
 <ol>
-    <li> `header` <li>
-    <li> `content` <li>
-    <li> `quote` <li>
-    <li> `signup` <li>
-    <li> `footer` <li>
+    <li> header
+    <li> content
+    <li> quote
+    <li> signup
+    <li> footer
 <ol>
 
 ### `header`
